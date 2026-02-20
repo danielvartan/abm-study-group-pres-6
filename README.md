@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the slides from the presentation *ABM Study Group: 1+ Year of Learning 🎉*, delivered on February 20, 2026, at the [Agent-Based Modeling (ABM) Study Group](https://github.com/abmstudygroup).
+This repository contains the slides from the presentation *ABM Study Group: 1+ Year of Learning 🎉*, delivered on February 20, 2026, at the [Agent-Based Modeling (ABM) Study Group](https://abmstudygroup.org).
 
 The slides are available [here](https://danielvartan.github.io/abm-study-group-pres-6/).
 
