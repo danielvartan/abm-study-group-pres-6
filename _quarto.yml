@@ -10,7 +10,7 @@ project:
   render: [index.qmd]
   post-render: "R/_post-render.R"
 
-title: "ABM Study Group: 1 Year of Learning 🎉"
+title: "ABM Study Group: 1+ Year of Learning 🎉"
 author: "Daniel Vartanian"
 keyword: >
   Study Groups. Agent-Based Modeling. Individual-Based Modeling. Modeling.
