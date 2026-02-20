@@ -15,6 +15,7 @@ keywords:
   - Study Groups
   - Agent-Based Modeling
   - Individual-Based Modeling
+  - Multi-Agent Systems
   - Modeling
   - Simulations
   - Computational Modeling
@@ -27,8 +28,11 @@ preferred-citation:
       given-names: Daniel
       email: danielvartan@proton.me
       orcid: https://orcid.org/0000-0001-7782-759X
-  url: https://danielvartan.github.io/abm-study-group-pres-6
+  doi: 10.5281/zenodo.18717981
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18717981
+    description: Zenodo Record
   - type: url
     value: https://danielvartan.github.io/abm-study-group-pres-6
     description: GitHub Pages Website
@@ -37,4 +41,4 @@ identifiers:
     description: GitHub Code Repository
 repository-code: https://github.com/danielvartan/abm-study-group-pres-6
 license: GPL-3.0-or-later
-version: 1.0.0
+version: 1.0.1

@@ -2,8 +2,12 @@
 
 <!-- badges: start -->
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![DOI Badge](https://img.shields.io/badge/doi-10.5281/zenodo.18717981-1284C5.svg)](https://doi.org/10.5281/zenodo.18717981)
+[![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%E2%97%8B-yellow)](https://fair-software.eu)
+[![FAIR checklist badge](https://img.shields.io/badge/fairsoftwarechecklist.net--00a7d9.png)](https://fairsoftwarechecklist.net/v0.2?f=21&a=32113&i=02300&r=123)
 [![License: GPLv3](https://img.shields.io/badge/license-GPLv3-bd0000.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Contributor Covenant 3.0 code of conduct badge](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
 <!-- badges: end -->
 
 ## Overview
@@ -33,6 +37,14 @@ quarto render
 
 This will start the rendering process, which may take some time depending on your machine. Once complete, the [Quarto](https://quarto.org/) presentation will be available in the [`docs`](docs) folder.
 
+## Contributing
+
+[![Contributor Covenant 3.0 code of conduct badge](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
+
+Contributions are always welcome! Whether you want to report bugs, suggest new features, or help improve the code or documentation, your input makes a difference.
+
+Before opening a new issue, please check the [issues tab](https://github.com/danielvartan/abm-study-group-pres-6/issues) to see if your topic has already been reported.
+
 ## License
 
 [![License: GPLv3](https://img.shields.io/badge/license-GPLv3-bd0000.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -57,6 +69,8 @@ this program. If not, see <https://www.gnu.org/licenses/>.
 ```
 
 ## Citation
+
+[![DOI Badge](https://img.shields.io/badge/doi-10.5281/zenodo.18717981-1284C5.svg)](https://doi.org/10.5281/zenodo.18717981)
 
 To cite this work, please use the following format:
 

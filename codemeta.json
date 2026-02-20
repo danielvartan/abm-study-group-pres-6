@@ -49,6 +49,7 @@
   "issueTracker": "https://github.com/danielvartan/abm-study-group-pres-6/issues",
   "runtimePlatform": "R",
   "relatedLink": [
+    "https://doi.org/10.5281/zenodo.18717981",
     "https://danielvartan.github.io/abm-study-group-pres-6",
     "https://github.com/danielvartan/abm-study-group-pres-6"
   ],
@@ -66,5 +67,5 @@
   "developmentStatus": "active",
   "readme": "https://github.com/danielvartan/abm-study-group-pres-6/blob/main/README.md",
   "releaseNotes": "https://github.com/danielvartan/abm-study-group-pres-6/blob/main/NEWS.md",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
