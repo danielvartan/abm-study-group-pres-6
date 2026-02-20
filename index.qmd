@@ -1,0 +1,322 @@
+## Hi there! 👋 {.smaller}
+
+```{r}
+#| label: setup
+#| include: false
+
+library(here)
+
+source(here("R/_setup.R"))
+```
+
+::::: {.columns}
+:::: {.column style="width: 55%; font-size: 0.9em;"}
+In this presentation, I’ll highlight our group’s progress so far, and outline our goals for the future.
+
+::: {style="padding-top: 15px;"}
+Here are the main topics:
+
+1. [**Members & Presentations**]{.brand-brown}
+1. [**Hosts & Speakers**]{.brand-brown}
+1. [**Workgroup**]{.brand-brown}
+1. [**Our Objectives**]{.brand-brown}
+1. [**SIMBRA**]{.brand-brown}
+:::
+::::
+:::: {.column style="width: 45%; padding-top: 50px;"}
+![](images/primer-figure-1.png){fig-align="center" style="width: 70%;"}
+::::
+:::::
+
+::: footer
+(Artwork by [Primer](https://www.youtube.com/watch?v=YNMkADpvO4w))
+:::
+
+::: {.notes}
+:::
+
+## How It Started {.smaller}
+
+::::: {.columns}
+:::: {.column style="width: 33%;"}
+[**May 2024**]{.brand-red}
+
+::: {style="text-align: center;"}
+[![](images/aline-carvalho.png){.circular-image-1}](https://www.fsp.usp.br/sustentarea/aline-carvalho/)
+[![](images/sustentarea-icon-circular.png){.circular-image-1 style="border:1px solid black;"}](https://www.fsp.usp.br/sustentarea/)
+:::
+::::
+:::: {.column style="width: 33%;"}
+[**Jun-Aug 2024**]{.brand-red}
+
+::: {style="text-align: center;"}
+[![](images/bill-rand.png){.circular-image-1}](https://poole.ncsu.edu/people/wmrand/)
+[![](images/leandro-garcia.png){.circular-image-1}](https://www.qub.ac.uk/schools/mdbs/Research/find-a-phd-supervisor/dr-leandro-garcia.html)
+:::
+::::
+:::: {.column style="width: 34%;"}
+[**October 2024**]{.brand-red}
+
+::: {style="text-align: center;"}
+[![](images/abmstudygroup-logo.png){.circular-image-1}](https://abmstudygroup.org)
+:::
+::::
+:::::
+
+## Members & Presentations
+
+::::: {.columns}
+:::: {.column style="width: 50%;"}
+[**October 9, 2024**]{.brand-red}
+
+(First Meeting)
+
+Total members: **24**
+
+Presentations: **1**
+
+::: {style="padding-top: 15px;"}
+[**February 19, 2025**]{.brand-red}
+
+Total members: **25**
+
+Presentations: **7**
+:::
+::::
+:::: {.column style="width: 50%;"}
+[**August 13, 2025**]{.brand-red}
+
+Total members: **35**
+
+Presentations: **17**
+
+::: {style="padding-top: 15px;"}
+[**February 20, 2026**]{.brand-red}
+
+Total members: **46**
+
+Presentations: **27**
+:::
+::::
+:::::
+
+::: {.notes}
+:::
+
+## Hosts & Speakers {.smaller}
+
+::: {style="text-align: center; line-height: 0.5em;"}
+[![](images/thiago-rossi.png){.circular-image-2}](https://orcid.org/0000-0002-8246-2393)
+[![](images/daniel-vartanian.png){.circular-image-2}](https://orcid.org/0000-0001-7782-759X)
+[![](images/brena-barreto.png){.circular-image-2}](https://orcid.org/0000-0002-1536-614X)
+[![](images/henrique-melo.png){.circular-image-2}](https://github.com/HenriqueSaldanhaMelo)
+[![](images/murilo-silvestrini.png){.circular-image-2}](https://orcid.org/0000-0001-9216-3971)
+[![](images/cecilia-klapka.png){.circular-image-2}](https://orcid.org/0009-0009-7174-0763)
+[![](images/isabela-camusso.png){.circular-image-2}](https://scholar.google.com/citations?user=xZUoWxUAAAAJ&hl=en&oi=sra)
+[![](images/leandro-bernardes.png){.circular-image-2}](https://www.linkedin.com/in/leandro-volpini-bernardes/)
+[![](images/marcelo-maciel.png){.circular-image-2}](https://orcid.org/0000-0001-7666-8494)
+[![](images/estevao-macedo.png){.circular-image-2}](https://orcid.org/0009-0005-5612-6432l)
+[![](images/lucas-moura.png){.circular-image-2}](https://orcid.org/0000-0002-4927-4980)
+[![](images/david-lojudice.png){.circular-image-2}](https://www.linkedin.com/in/dlojudice/)
+[![](images/juan-nunez.png){.circular-image-2}](https://orcid.org/0000-0001-6278-2579)
+[![](images/leticia-correa.png){.circular-image-2}](https://orcid.org/0000-0001-5059-3359)
+[![](images/angela-lama.png){.circular-image-2}](https://orcid.org/0009-0002-5098-5146)
+:::
+
+::: {.notes}
+:::
+
+## Workgroup {.smaller}
+
+:::: {style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; padding-top: 0px;"}
+
+::: {style="text-align: center;"}
+[![](images/thiago-rossi.png){.circular-image-3}](https://orcid.org/0000-0002-8246-2393)`<br>`{=html}[Agronomy & Econom.]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/murilo-silvestrini.png){.circular-image-3}](https://orcid.org/0000-0001-9216-3971)`<br>`{=html}[Agronomy & Econom.]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/marcelo-maciel.png){.circular-image-3}](https://orcid.org/0000-0001-7666-8494)`<br>`{=html}[Political Science]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/lucas-moura.png){.circular-image-3}](https://orcid.org/0000-0002-4927-4980)`<br>`{=html}[Nutrition]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/leticia-correa.png){.circular-image-3}](https://orcid.org/0000-0001-5059-3359)`<br>`{=html}[History & Archaeology]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/leandro-bernardes.png){.circular-image-3}](https://www.linkedin.com/in/leandro-volpini-bernardes/)`<br>`{=html}[Physics & Engineering]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/juan-nunez.png){.circular-image-3}](https://orcid.org/0000-0001-6278-2579)`<br>`{=html}[Anthropology]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/david-lojudice.png){.circular-image-3}](https://www.linkedin.com/in/dlojudice/)`<br>`{=html}[Computer Science]{.circular-image-3-caption}
+:::
+
+::: {style="text-align: center;"}
+[![](images/daniel-vartanian.png){.circular-image-3}](https://orcid.org/0000-0001-7782-759X)`<br>`{=html}[Marketing]{.circular-image-3-caption}
+:::
+::::
+
+::: {.notes}
+:::
+
+## 2025 Reference {.smaller}
+
+:::: {.columns}
+::: {.column style="width: 47.5%;"}
+[![](images/railsback-2019-cover.png){fig-align="right" style="width: 90%;"}](https://www.railsback-grimm-abm-book.com/)
+:::
+::: {.column style="width: 5%;"}
+:::
+::: {.column style="width: 47.5%;"}
+[![](images/railsback-2019-p-250.png){fig-align="left" style="width: 90%; border: 1px solid;"}](https://www.railsback-grimm-abm-book.com/)
+:::
+::::
+
+::: footer
+[@railsback2019]
+:::
+
+::: {.notes}
+:::
+
+## Our Objectives
+
+::::: {.columns}
+:::: {.column style="width: 47.5%; font-size: 0.8em;"}
+[2nd Semester 2024]{.brand-brown .bold}
+
+**Introduce** modeling concepts, ABMs, NetLogo, and the ODD Protocol ([Part I]{.brand-red .bold})
+
+::: {style="padding-top: 15px;"}
+[1st Semester 2025]{.brand-brown .bold}
+
+Explore the entire **ODD Protocol**, enabling participants to **create** and structure their own ABMs<br>([Part II]{.brand-red .bold})
+:::
+::::
+:::: {.column style="width: 5%;"}
+::::
+:::: {.column style="width: 47.5%; font-size: 0.8em;"}
+[2nd semester 2025]{.brand-brown .bold}
+
+Learn how to parameterize, calibrate, and **analyze** ABMs effectively ([Parts III & IV]{.brand-red .bold})
+
+::: {style="padding-top: 15px;"}
+[1st Semester 2026]{.brand-brown .bold}
+:::
+
+::: {style="text-align: center; font-size: 1em; padding-top: 30px;"}
+[Workshops]{.bold},`<br>`{=html}[Symposium]{.bold},`<br>`{=html}[+]{.brand-red .bold}
+:::
+::::
+:::::
+
+::: {.notes}
+:::
+
+## A Collective Achievement {.smaller}
+
+::::: {.columns}
+:::: {.column style="width: 42.5%;"}
+[![](images/simbra-icon.svg){fig-align="center" style="width: 60%; padding-top: 1.5em;"}](https://simbra.com.br)
+
+::: {style="text-align: center; margin-top: -1.5em; line-height: 1em;"}
+[SIMBRA]{style="font-family: Montserrat; font-size: 2em; font-weight: 900;"}
+
+::: {style="margin-top: -0.5em;"}
+[1st Brazilian Interdisciplinary`<br>`{=html}Symposium on Agent-Based Models]{style="font-family: Montserrat; font-size: 0.8em; font-weight: 500;"}
+:::
+:::
+::::
+:::: {.column style="width: 5%;"}
+::::
+:::: {.column style="width: 52.5%; text-align: center; display: inline-block; padding-top: 1.5em;"}
+**Supporters**
+
+[![](images/sustentarea-logo.svg){.logo style="width: 3em; margin: 0.25em"}](https://www.fsp.usp.br/sustentarea)
+[![](images/inct-logo.svg){.logo style="width: 5em; margin: 0.25em"}](https://www.fsp.usp.br/inct-combate-a-fome)
+[![](images/usp-fsp-logo.png){.logo style="width: 3em; margin: 0.25em"}](https://www.fsp.usp.br/)
+[![](images/usp-each-logo.svg){.logo style="width: 5.5em; margin: 0.25em"}](https://www.each.usp.br/)
+[![](images/usp-iee-logo.png){.logo style="width: 3em; margin: 0.25em"}](https://www.each.usp.br/)
+[![](images/usp-mae-levoc-logo.svg){.logo style="width: 5.5em; margin: 0.25em"}](https://mae.usp.br/levoc/)
+[![](images/usp-lapomed-logo.png){.logo style="width: 5.5em; margin: 0.20em"}](#)
+[![](images/usp-logo.svg){.logo style="width: 3.5em; margin: 0.25em"}](https://www.usp.br/)
+[![](images/ufpi-logo.png){.logo style="width: 7em; margin: 0.25em"}](https://www.ufpi.br/)
+[![](images/resiclima-logo.svg){.logo style="width: 3em; margin: 0.25em"}](https://resiclima.com.br/)
+[![](images/qub-logo.svg){.logo style="width: 5.5em; margin: 0.25em"}](https://www.qub.ac.uk/)
+[![](images/omf-logo.svg){.logo style="width: 4.5em; margin: 0.25em"}](https://www.openmodelingfoundation.org/)
+[![](images/comses-net-logo.png){.logo style="width: 6em; margin: 0.25em"}](https://www.comses.net/)
+::::
+:::::
+
+::: {.notes}
+:::
+
+## 2026 Reference {.smaller}
+
+:::: {.columns}
+::: {.column style="width: 47.5%;"}
+[![](images/smaldino-2023-cover.png){fig-align="right" style="width: 77.5%; padding-top: 0px;"}](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior)
+:::
+::: {.column style="width: 5%;"}
+:::
+::: {.column style="width: 47.5%;"}
+[![](images/smaldino-2023-brief-contents.png){fig-align="left" style="width: 77.5%; border: 1px solid;"}](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior)
+:::
+::::
+
+::: footer
+[@smaldino2023]
+:::
+
+::: {.notes}
+:::
+
+## Closing Remarks {.smaller}
+
+[![License: GPLv3](images/gplv3-license-badge.svg){style="width: 12%; padding-top: 0px;"}](https://www.gnu.org/licenses/gpl-3.0)
+[![License: CC BY 4.0](images/cc-by-nc-sa-4-0-license-badge.svg){style="width: 19%; padding-top: 0px;"}](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+
+This presentation was created with the [Quarto](https://quarto.org/) Publishing System. The code and materials are available on [GitHub](https://github.com/danielvartan/abm-study-group-pres-6).
+
+![](images/allison-horst-figure-1.png){fig-align="center" style="width: 80%; padding-top: 50px;"}
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
+
+## References {.smaller}
+
+::: {style="font-size: 0.75em;"}
+In accordance with the American Psychological Association ([APA](https://apastyle.apa.org/)) Style, 7th edition.
+:::
+
+::: {#refs style="font-size: 0.75em;"}
+:::
+
+::: {.notes}
+:::
+
+## Thank you! {.nostretch}
+
+![](images/allison-horst-figure-3.png){fig-align="center" style="width: 70%; padding-top: 25px;"}
+
+::: footer
+(Artwork by [Allison Horst](https://twitter.com/allison_horst))
+:::
+
+::: {.notes}
+:::
